@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.graph_objects as go
 
 # Importación de datos
-loc_csv = r'data\vehicles_us.csv'
+loc_csv = r'data/vehicles_us.csv'
 car_data = pd.read_csv(loc_csv)
 
 # Header
