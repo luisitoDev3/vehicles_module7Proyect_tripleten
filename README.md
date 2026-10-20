@@ -3,3 +3,6 @@ Proyecto para construir y desplegar un panel de control de una aplicación web e
 El proyecto sirve para ver con claridad la información para tomar buenas decisiones sobre el márquetin de la industria automovilística. 
 
 Proporciona funcionalidades de visualización de datos. 
+
+Acceso a la aplicación desplegada en Render:
+https://vehicles-module7proyect-tripleten.onrender.com/
